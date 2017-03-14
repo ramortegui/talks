@@ -6,7 +6,7 @@ defmodule Factorial do
   defp _of(num, acc) when num == 0 do
     acc
   end
-  defp _of(num, acc) when num > 1 do
+  defp _of(num, acc) when num >= 1 do
     _of(num-1, acc*num)
   end
 end
