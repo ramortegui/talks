@@ -13,7 +13,7 @@ defmodule CalculatorGenServer do
   def handle_cast({:-,val},state) do
     {:noreply,state-val}
   end
-  def handle_call({:res}, _from , state) do
+  def handle_call({:=}, _from , state) do
     {:reply, state, state} 
   end
 
@@ -25,6 +25,6 @@ defmodule CalculatorGenServer do
     GenServer.cast(__MODULE__, {:-, val})
   end
   def res() do
-    GenServer.call(__MODULE__, {:res})
+    GenServer.call(__MODULE__, {:=})
   end
 end
