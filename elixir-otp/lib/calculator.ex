@@ -6,8 +6,9 @@ defmodule Calculator do
     receive do
       {:+,num} -> loop(val+num)
       {:-,num} -> loop(val-num)
-      {:res, pid} -> send pid,{:ok, val} 
-                    loop(val)
+      {:=, pid} -> 
+        send pid,{:ok, val} 
+        loop(val)
     end
   end
 end
