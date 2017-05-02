@@ -1,0 +1,5 @@
+import_file("calculator_genserver.ex")
+{:ok, pid} = CalculatorGenServer.start_link(10)
+CalculatorGenServer.add(1)
+CalculatorGenServer.sub(2)
+CalculatorGenServer.res()
