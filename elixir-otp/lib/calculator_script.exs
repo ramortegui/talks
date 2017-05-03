@@ -11,13 +11,9 @@ sub = fn(val,sub) ->
   val - sub 
 end
 
-IO.puts "Inital value #{val}"
-
-IO.puts "Add 1"
-sum.(val,1)
-
-IO.puts "After add 1: #{val} !wrong"
-
-val = sum.(val,1)
-
-IO.puts "After add 1: #{val}";
+#IO.puts "Inital value #{val}"
+#IO.puts "Add 1"
+#sum.(val,1)
+#IO.puts "After add 1: #{val} !wrong"
+#val = sum.(val,1)
+#IO.puts "After add 1: #{val}";
