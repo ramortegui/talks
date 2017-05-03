@@ -12,7 +12,7 @@ defmodule Test.Mixfile do
 
   def application do
     [extra_applications: [:logger],
-      mod: {CalculatorApplication,[]}]
+      mod: {CalculatorApplication,[10]}]
   end
   defp deps do
     []
