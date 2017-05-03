@@ -1,6 +1,6 @@
 #Sample module to illustrate how spawn
 #and spawn_link works.
-defmodule MyModule do
+defmodule ProcessesSample do
   def call_function() do
     IO.puts "function called"
   end
