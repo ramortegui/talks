@@ -1,3 +1,4 @@
+#Module calculator as process
 defmodule Calculator do
   def init(val) do
     spawn(fn -> loop(val) end) 
