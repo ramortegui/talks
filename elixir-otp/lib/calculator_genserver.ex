@@ -1,3 +1,4 @@
+#Sample of GenServer
 defmodule CalculatorGenServer do
   use GenServer
 
