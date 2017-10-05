@@ -61,32 +61,26 @@
       Pass the result of an expression
       as the first argument
 # Processing Collections
-  Enum
+  - Enum
 
 # Comprehensions
-  A way to interate over an enumerable.
+  - A way to interate over an enumerable.
 
 # Control flow
-    if, else
-    cond
+  - if, else
+  - cond
 
 # Functions
-    Anonymous functions
-      (& notation)
-    Closures
-    Named functions (Modules)
-      pattern matching
-      private functions
-    guards
-      limitations
-    Default params
+  *  Anonymous functions
+    - (& notation)
+    - Closures
+  *  Named functions (Modules)
+    - pattern matching
+    - private functions
+  * guards
+    - limitations
+  * Default params
 
-# Next meetups "Elixir Calgary":
-  - Intro GraphQL - Absinthe (Nov 13)
-  - Ecto (Dec)
-  - Tests (Jan)
-  - OTP (Feb)
-  
 
 # Biography:
 
@@ -116,7 +110,12 @@
               ___
              q###r
 
-
+# Next meetups "Elixir Calgary":
+  - Intro GraphQL - Absinthe (Nov 13)
+  - Ecto (Dec)
+  - Tests (Jan)
+  - OTP (Feb)
+  
 # Thanks!
 
            ( \
