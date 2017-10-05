@@ -1,4 +1,6 @@
-Functional Programmer YYC
+
+
+Functional Programmer meetup YYC
 Intro to Elixir
 Ruben Amortegui
 Oct. 5th 2017
@@ -7,17 +9,22 @@ Oct. 5th 2017
    - Intro to the language
 
 * About elixir
-   - Dinamic, functional language
-     designed for building scalable 
-     and maintainable applications.
-   - Runs on the erlang virtual machine
-     BEAM
+  - Dinamic, functional language
+    designed for building scalable 
+    and maintainable applications.
+  - Runs on the erlang virtual machine BEAM
+  - Platform features:
+      - Scalability (processes)
+      - Fault tolerance ( Supervision trees)
+  - Language features:
+      - Funcitonal Programming
+      - Extensibility and DSL
+  -Tooling
+      mix: Build tool
+      iex: Interative Elixir
 * Type of files
   hello.ex
   hello.exs
-* Tools
-    iex: Interactive Elixir
-    mix: Task manager (helper)
 * Types
   Value types:
     Integer
@@ -31,7 +38,7 @@ Oct. 5th 2017
     List
     Tuples
     Maps
-    Binaries
+    String 
   Functions
 * Pattern Matching
   =
@@ -55,6 +62,13 @@ Oct. 5th 2017
     |>
       Pass the result of an expression
       as the first argument
+* Processing Collections
+  Enum
+* Comprehensions
+  A way to interate over an enumerable.
+* Control flow
+    if, else
+    cond
 * Functions
     Anonymous functions
       (& notation)
@@ -65,20 +79,6 @@ Oct. 5th 2017
     guards
       limitations
     Default params
-* Processing Collections
-  Enum
-* Comprehensions
-  A way to interate over an enumerable.
-* Control flow
-    if, else
-    cond
-
-* Sample of tooling 
-    - Create a project
-    - Run tests
-    - Execute app with iex
-    - Documentation 
-
 
 * Next meetups "Elixir Calgary":
   - Intro GraphQL - Absinthe (Nov 13)
