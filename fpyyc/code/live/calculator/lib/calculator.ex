@@ -8,11 +8,11 @@ defmodule Calculator do
 
   ## Examples
 
-      iex> Calculator.sum(1,2)
-      3 
+      iex> Calculator.hello
+      :world
 
   """
-  def sum(a,b) do
-    a + b
+  def hello do
+    :world
   end
 end

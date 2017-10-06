@@ -2,7 +2,7 @@ defmodule CalculatorTest do
   use ExUnit.Case
   doctest Calculator
 
-  test "sum two numbers" do
-    assert Calculator.sum(1,2) == 3 
+  test "greets the world" do
+    assert Calculator.hello() == :world
   end
 end

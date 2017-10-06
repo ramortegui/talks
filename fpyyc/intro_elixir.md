@@ -1,12 +1,20 @@
 # Intro to Elixir
+
+
+
    Functional Programmers YYC
          Ruben Amortegui
           Oct. 5th 2017
 
+
+
+
 # About this talk
+
   - Intro to the language
 
 # About elixir
+
   - Dinamic, functional language
     designed for building scalable 
     and maintainable applications.
@@ -20,10 +28,14 @@
   - Tooling
     - mix: Build tool
     - iex: Interative Elixir
+
 # Type of files
+
   hello.ex
   hello.exs
-# Types
+
+# Data Types
+
   1. Value types:
     - Integer
     - Floats
@@ -38,12 +50,16 @@
     - Maps
     - String 
   4. Functions
+
 # Pattern Matching
+
   - =
   - with variables
   - with tuples
   - with lists
+
 # Operators
+
   1. Comparison
     ==, ===, !=, !==, >, < ,<=, >=
   2. Boolean
@@ -60,17 +76,9 @@
   6.  |>
       Pass the result of an expression
       as the first argument
-# Processing Collections
-  - Enum
-
-# Comprehensions
-  - A way to interate over an enumerable.
-
-# Control flow
-  - if, else
-  - cond
 
 # Functions
+
   *  Anonymous functions
     - (& notation)
     - Closures
@@ -80,6 +88,20 @@
   * guards
     - limitations
   * Default params
+
+
+# Processing Collections
+
+  - Enum
+
+# Comprehensions
+
+  - A way to interate over an enumerable.
+
+# Control flow
+
+  - if, else
+  - cond
 
 
 # Biography:
