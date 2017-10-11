@@ -66,7 +66,7 @@
       or, and, not
       ||, &&, !
   3. Arihmetic
-      +, =, #, /, div, rem
+      +, -, *, /, div, rem
   4. Join
       binary <> binary
       list ++ list 
@@ -132,13 +132,16 @@
               ___
              q###r
 
+
 # Next meetups "Elixir Calgary":
+
   - Intro GraphQL - Absinthe (Nov 13)
   - Ecto (Dec)
   - Tests (Jan)
   - OTP (Feb)
   
 # Thanks!
+
 
            ( \
            | :
