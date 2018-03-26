@@ -1,4 +1,4 @@
- Module using Application behaviour
+# Module using Application behaviour
 defmodule CalculatorApplication do
   use Application
 

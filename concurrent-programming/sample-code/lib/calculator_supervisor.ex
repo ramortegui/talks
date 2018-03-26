@@ -3,7 +3,7 @@ defmodule CalculatorSupervisor do
   use Supervisor
 
   def start_link(state) do
-    Supervisor.start_link(__MODULE__, state)
+    Supervisor.start_link(__MODULE__, state, name: __MODULE__)
   end
 
   def init(state) do
