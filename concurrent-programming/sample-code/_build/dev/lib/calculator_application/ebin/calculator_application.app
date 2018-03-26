@@ -1,0 +1,10 @@
+{application,calculator_application,
+             [{applications,[kernel,stdlib,elixir,logger]},
+              {description,"calculator_application"},
+              {modules,['Elixir.Calculator','Elixir.CalculatorApplication',
+                        'Elixir.CalculatorGenServer',
+                        'Elixir.CalculatorSupervisor','Elixir.GenServerTest']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {extra_applications,[logger]},
+              {mod,{'Elixir.CalculatorApplication',"\n"}}]}.
