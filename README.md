@@ -8,7 +8,7 @@ This Repo contains Talks info
 
 | Date          | Resources                          |
 |:------------- |:-----------------------------------|
-| 06-06-2018    | [Katas](pdfs/elixiir-koans.pdf)|
+| 06-06-2018    | [Katas](pdfs/elixir-koans.pdf)|
 | 26-03-2018    | [Concurrent Programming](pdfs/concurrent-programming.pdf)|
 | 13-12-2017    | [Intro Graphql - Absinthe](pdfs/elixir-absinthe-basics.pdf)|
 | 20-08-2017    | [Phoenix 1.3](pdfs/phoenix-basics.pdf)|
