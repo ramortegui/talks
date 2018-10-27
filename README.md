@@ -2,9 +2,9 @@
 
 ## Description
 
-This Repo contains the sources of used in talks for [Elixir Calgary Meetup](https://www.meetup.com/Elixir-Calgary/)
+This Repo contains Talks info 
 
-## Data
+## [Elixir Calgary Meetup](https://www.meetup.com/Elixir-Calgary/)
 
 | Date          | Resources                          |
 |:------------- |:-----------------------------------|
@@ -17,6 +17,10 @@ This Repo contains the sources of used in talks for [Elixir Calgary Meetup](http
 | 09-02-2017    | [Basics P1](pdfs/elixir-basics.pdf)|
 | 01-12-2017    | [From Perl to Elixir](pdfs/porting-perl-package-to-elixir.pdf)|
 
+## [Functional Programmers Meetup](https://www.meetup.com/Functional-Programmers-YYC/)
 
+| Data       | Resources |
+|:-----------|:----------|
+| 05-10-2017 |[Vim Presentation Recap](https://www.youtube.com/watch?v=6CIglbosaHY)|
 
 
