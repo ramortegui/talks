@@ -6,7 +6,7 @@ This Repo contains Talks info
 
 ## [Elixir Calgary Meetup](https://www.meetup.com/Elixir-Calgary/)
 
-| Date(dd/mm/YYYY) | Resources                          |
+| Date(dd/mm/yyyy) | Resources                          |
 |:---------------- |:-----------------------------------|
 | 15-11-2018       | [Working with Phoenix](pdfs/working-with-phoenix.pdf)|
 | 06-06-2018       | [Katas](pdfs/elixir-koans.pdf)|
@@ -20,7 +20,7 @@ This Repo contains Talks info
 
 ## [Functional Programmers Meetup](https://www.meetup.com/Functional-Programmers-YYC/)
 
-| Date(dd/mm/YYYY) | Resources |
+| Date(dd/mm/yyyy) | Resources |
 |:-----------------|:----------|
 | 05-10-2017       |[Vim Presentation Recap](https://www.youtube.com/watch?v=6CIglbosaHY)|
 
