@@ -139,7 +139,7 @@ defmodule CounterWeb.CounterLive do
   use Phoenix.LiveView
 
   def mount(_params, socket) do
-    socket = assing(socket, :counter, 0)
+    socket = assign(socket, :counter, 0)
     {:ok, socket}
   end
 end
