@@ -90,7 +90,7 @@ Install dependencies
 
 ## 8. Enable connecting live view from the client
 
-assets/app.js
+assets/js/app.js
 
 ```
    import LiveSocket from "phoenix_live_view"
