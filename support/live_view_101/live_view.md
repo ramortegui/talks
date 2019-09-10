@@ -124,7 +124,7 @@ assets/css/app.css
 ## 11. Use it
   Create a template
 
-counter_web/templates/pages/index.html.eex
+counter_web/templates/page/index.html.eex
 ```
   <%= render_view(@conn, CounterWeb.CounterLive) %>
 ```
