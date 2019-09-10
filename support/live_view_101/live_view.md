@@ -2,6 +2,10 @@
 
 Creating a LiveView counter
 
+Requirements:
+  - Phoenix Framework
+  - Nodejs
+
 
 # Steps
 
