@@ -126,7 +126,7 @@ assets/css/app.css
 
 counter_web/templates/page/index.html.eex
 ```
-  <%= render_view(@conn, CounterWeb.CounterLive) %>
+  <%= live_render(@conn, CounterWeb.CounterLive) %>
 ```
 
 ## 12. Create a counter live file
