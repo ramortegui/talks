@@ -8,6 +8,7 @@ This Repo contains Talks info
 
 | Date (dd-mm-yyyy)| Resources                                                 |
 |:---------------- |:----------------------------------------------------------|
+| 09-09-2019       | [LiveView](pdfs/elixir-reactive-app.pdf)
 | 30-01-2019       | [Ecto in Elixir](pdfs/ecto.pdf)                           |
 | 15-11-2018       | [Working with Phoenix](pdfs/working-with-phoenix.pdf)     |
 | 06-06-2018       | [Katas](pdfs/elixir-koans.pdf)                            |
